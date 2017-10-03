@@ -1,0 +1,22 @@
+{
+  "name": "betdb",
+  "version": "0.1.0",
+  "description": "the datadb for the API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hackchan/betdb.git"
+  },
+  "keywords": [
+    "bet"
+  ],
+  "author": "Fabio Rojas <fabiorojas7@gmail.com> (https://twitter.com/@hackchan77)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hackchan/betdb/issues"
+  },
+  "homepage": "https://github.com/hackchan/betdb#readme"
+}
